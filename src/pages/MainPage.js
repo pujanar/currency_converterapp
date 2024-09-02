@@ -10,7 +10,7 @@ export default function MainPage() {
           <section>
             <form>
               <div>
-                <label htmlFor=''>Date</label>
+                <label htmlFor=''>Date in the calander</label>
                 <input type='date'/>
               </div>
               <div>
